@@ -2,6 +2,9 @@
 label: Test
 hide_body: false
 is_partial: false
-fields: []
+fields:
+- type: text
+  name: you_can
+  label: You can type here
 pages:
 - config.yml/jekyll-test-page.md
